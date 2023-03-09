@@ -1,0 +1,5 @@
+VSC search parttern: 
+**/src/**/**/**Service.ts
+**/src/**/**/**.tsx
+**/src/**
+**test**
